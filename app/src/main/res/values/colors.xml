@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="light_yellow">#FFF9C4</color> <!-- Amarillo claro para el fondo -->
+    <color name="dark_text">#333333</color> <!-- Color de texto oscuro para contraste -->
+    <color name="button_border_color">#FFAB91</color> <!-- Naranja claro para bordes de botón -->
+    <color name="button_pressed_color">#FFCCBC</color> <!-- Color para botón presionado -->
+</resources>
